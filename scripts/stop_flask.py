@@ -1,3 +1,4 @@
+print('initial')
 import requests
 
 try:
