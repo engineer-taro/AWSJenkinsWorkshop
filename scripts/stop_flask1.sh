@@ -1,1 +1,1 @@
-python3.7 /web/scripts/stop_flask.py
+python /web/scripts/stop_flask.py
